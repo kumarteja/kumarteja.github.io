@@ -15,7 +15,7 @@ before_install:
 - git remote set-url origin git@github.com:kumarteja/kumarteja.github.io.git
 - git remote -v
 script:
-- bundle exec rake
+- exec rake
 notifications:
   email:
     recipients:
