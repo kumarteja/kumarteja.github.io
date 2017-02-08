@@ -9,4 +9,6 @@ group :jekyll_plugins do
     gem 'jekyll-feed', '0.5.1'
     gem 'jekyll-redirect-from', '0.10.0'
     gem 'serve', '1.5.2'
+    gem 'jekyll-seo-tag'
+    gem 'jekyll-paginate'
 end
