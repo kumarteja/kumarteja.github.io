@@ -1,0 +1,8 @@
+Host github.com
+	User				          	git
+	IdentityFile		      	~/.ssh/deploy-key
+	StrictHostKeyChecking 	no
+	PasswordAuthentication	no
+	CheckHostIP			      	no
+	BatchMode			        	yes
+Raw
