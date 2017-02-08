@@ -1,7 +1,8 @@
 ### your site title here
 
 title: Kumarteja!
-baseurl: /blog # name of the repository
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://rrevanth.github.io" # the base hostname & protocol for your site
 email: your@email.com
 
 
